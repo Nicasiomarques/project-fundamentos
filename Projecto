@@ -1,0 +1,23 @@
+Projecto:
+  classes de requisito 
+    - [x] estudante
+    - [x] estudanteRepositorio
+    - [x] start
+  Municipios
+    - [x] listagem 
+  
+  Unidades Organicas
+    - [x] listagem 
+
+   Testes
+    - [x] listagem 
+
+  Estudante
+    - [x] Consulta por Bi/NumEstudante
+    - detalhes
+    - [x] eliminar
+
+    - [x] Validação
+    - [x] questionario para escolha da gravidade
+    - [x] Cadastro
+  [] - Att: data de criação 
